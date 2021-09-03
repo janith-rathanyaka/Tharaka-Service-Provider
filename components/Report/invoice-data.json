@@ -1,0 +1,27 @@
+[
+    {
+        "product": "Chicken Rice",
+        "share": 0.175
+    },
+    {
+        "product": "Pork Masala",
+        "share": 0.238
+    },
+    {
+        "product": "Sea Food Rice",
+        "share": 0.118
+    },
+    {
+        "product": "Beef Curry",
+        "share": 0.052
+    },
+    {
+        "product": "Fish Abulthiyal",
+        "share": 0.225
+    },
+    {
+        "product": "Vegetarian",
+        "share": 0.192
+    }
+  ]
+  
